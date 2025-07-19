@@ -1,0 +1,100 @@
+<html>
+<head>
+Dream town</head>
+<body>
+
+<section style="font-family: Arial, sans-serif; max-width: 900px; margin: auto; padding: 20px;">
+  <h1 style="font-size: 2rem; color: #2e7d32;"> Land for Sale in Pollachi,Zameen-Uthukuli – Affordable Agriculture & Residential Plots</h1>
+  
+  <p style="font-size: 1.1rem;">Looking to buy land in Pollachi or Uthukuli? We offer affordable, DTCP-approved plots perfect for farming, investment, or home building. Get clear titles and flexible financing.</p>
+
+  <hr style="margin: 20px 0;">
+
+  <h2 style="color: #388e3c;"> Available Plots</h2>
+  <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+   <thead>
+      <tr style="background-color: #f1f8e9;">
+        <th style="border: 1px solid #ccc; padding: 10px;">Phases</th>
+<th style="border: 1px solid #ccc; padding: 10px;">Facing towards</th>
+        <th style="border: 1px solid #ccc; padding: 10px;">Cost per Cent</th>
+       
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="border: 1px solid #ccc; padding: 10px;">Phase 1 </td>
+  <td style="border: 1px solid #ccc; padding: 10px;">North,East and Nort-East</td>
+        <td style="border: 1px solid #ccc; padding: 10px;">10 L and offer Price 9.49L</td>
+        
+      </tr>
+
+    <tr>
+        <td style="border: 1px solid #ccc; padding: 10px;">Phase 1 </td>
+  <td style="border: 1px solid #ccc; padding: 10px;">South and West</td>
+        <td style="border: 1px solid #ccc; padding: 10px;">9.70 L and offer Price 8.99L</td>
+        
+      </tr>
+
+ <tr>
+        <td style="border: 1px solid #ccc; padding: 10px;">Phase 2 </td>
+  <td style="border: 1px solid #ccc; padding: 10px;">North,East and Nort-East</td>
+        <td style="border: 1px solid #ccc; padding: 10px;">9 L and offer Price 8.65L</td>
+        
+      </tr>
+
+    <tr>
+        <td style="border: 1px solid #ccc; padding: 10px;">Phase 2 </td>
+  <td style="border: 1px solid #ccc; padding: 10px;">South and West</td>
+        <td style="border: 1px solid #ccc; padding: 10px;">8.70 L and offer Price 8.40L</td>
+        
+      </tr>
+
+<tr>
+        <td style="border: 1px solid #ccc; padding: 10px;">Phase 3 </td>
+  <td style="border: 1px solid #ccc; padding: 10px;">North,East and Nort-East</td>
+        <td style="border: 1px solid #ccc; padding: 10px;">8 L and offer Price 7.65L</td>
+        
+      </tr>
+
+    <tr>
+        <td style="border: 1px solid #ccc; padding: 10px;">Phase 2 </td>
+  <td style="border: 1px solid #ccc; padding: 10px;">South and West</td>
+        <td style="border: 1px solid #ccc; padding: 10px;">7.70 L and offer Price 7.40L</td>
+        
+      </tr>
+     
+    </tbody>
+  </table>
+
+  <h2 style="color: #388e3c;">✅ Why Choose Us?</h2>
+  <ul style="font-size: 1rem; padding-left: 20px;">
+    <li>DTCP Approved Plots with Clear Titles</li>
+    <li>Fertile Red Soil – Ideal for Agriculture</li>
+    <li>Residential Layouts near Schools, Bus Stops</li>
+    <li>EMI Options Available – No Bank Required</li>
+    <li>Site Visits Available on Weekends</li>
+  </ul>
+
+  <h2 style="color: #388e3c;">📍 Location Highlights</h2>
+  <p>All our plots are located within 5–10 km of Pollachi or Uthukuli town limits, with easy road access, water sources, and power lines. Perfect for farming, housing, or weekend use.</p>
+
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18..." width="100%" height="300" style="border:0; margin-top: 15px;" allowfullscreen="" loading="lazy"></iframe>
+
+  <h2 style="color: #388e3c;">📞 Contact Us</h2>
+  <p style="font-size: 1.1rem;">
+    Call <strong>+91 98765 43210</strong> or message us on WhatsApp for site visits, bookings, or more details.
+  </p>
+
+  <!-- WhatsApp Chat Button -->
+  <div style="text-align: center; margin-top: 30px;">
+    <a href="https://wa.me/919876543210?text=Hi%2C%20I%27m%20interested%20in%20buying%20land%20in%20Pollachi%20or%20Uthukuli.%20Please%20share%20details." target="_blank" style="background-color: #25D366; color: white; padding: 12px 24px; text-decoration: none; font-size: 1.1rem; border-radius: 5px;">
+      💬 Chat on WhatsApp
+    </a>
+  </div>
+
+  <div style="text-align: center; margin-top: 20px;">
+    <a href="#contact" style="background-color: #2e7d32; color: #fff; padding: 12px 24px; text-decoration: none; font-size: 1.1rem; border-radius: 5px;">🛒 Book Your Plot Now</a>
+  </div>
+</section>
+</body>
+</html>
